@@ -75,6 +75,8 @@ Interests:
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/up251078ttff)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yrelliet12)
 
 </div>
